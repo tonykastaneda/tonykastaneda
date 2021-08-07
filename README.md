@@ -12,7 +12,10 @@ A creative professional that solves creative problems with creative solutions–
 
 ---
 ### Reach Me Here:
-
+tonykastaneda@gmail.com
+behance
+dribble
+test
 
 
 [website]: https://tony.bellrosedesign.com
