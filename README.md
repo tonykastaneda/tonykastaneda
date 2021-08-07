@@ -12,7 +12,7 @@ A creative professional that solves creative problems with creative solutions–
 
 ---
 ### Reach Me Here:
-<img width="22px" src="img/dribbble-line.svg" />
+[<img width="22px" src="img/dribbble-ball-icon" />][dribbble]
 
 ### Tools and Languages:
 
