@@ -12,10 +12,10 @@ A creative professional that solves creative problems with creative solutions–
 
 ---
 ### Reach Me Here:
-[<img align="left" width="22px" src="img/dribbble-ball-icon.svg" />][dribbble]
-[<img align="left" width="22px" src="img/instagram-icon.svg" />][instagram]
-[<img align="left" width="22px" src="img/behance-icon.svg" />][behance]
-[<img align="left" width="22px" src="img/twitter-icon.svg" />][twitter]
+[<img width="22px" src="img/dribbble-ball-icon.svg" />][dribbble]
+[<img width="22px" src="img/instagram-icon-png.png" />][instagram]
+[<img width="22px" src="img/behance-icon.svg" />][behance]
+[<img width="22px" src="img/twitter-icon.svg" />][twitter]
 
 ### Tools and Languages:
 
