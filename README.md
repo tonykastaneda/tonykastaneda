@@ -8,7 +8,7 @@ A creative professional that solves creative problems with creative solutions–
 * 🌱 I’m currently learning React.js to help design systems and understand programming limitations when talked about in the greater context of desing and its fundementals
 * 🏗️ Building a Design Agency over @ [BELLROSE® Desing & Co.][bellrose]
 * 💥 2021 Goals: Build automated workflows in the cloud 
-* ⚡ Fun fact: I'm an Audio Engineer by night 
+* ⚡ Fun fact: I'm an Audio Engineer by night
 
 ---
 ### Reach Me Here:
