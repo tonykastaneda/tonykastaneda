@@ -13,7 +13,9 @@ A creative professional that solves creative problems with creative solutions–
 ---
 ### Reach Me Here:
 [<img width="22px" src="img/dribbble-ball-icon.svg" />][dribbble]
-<img width="22px" scr="img/instagram-icon.svg">
+[<img width="22px" scr="img/instagram-icon.svg" />][instagram]
+[<img width="22px" scr="img/behance-icon.svg" />][behance]
+[<img width="22px" scr="img/twitter-icon.svg" />][twitter]
 
 ### Tools and Languages:
 
