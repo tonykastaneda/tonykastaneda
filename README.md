@@ -1,7 +1,7 @@
 
 ### Hi Im Tony Kastaneda 👋
 
-A creative professional that solves creative problems with creative solutions–A tounge twister
+A creative professional that solves creative problems with creative solutions–A tounge twister.
 
 ---
 * 🔭 I’m currently working on webdesigns and easy deployment internally to better help my clients and there needs
