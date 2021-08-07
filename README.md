@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**tonykastaneda/tonykastaneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Im Tony Kastaneda 👋
 
-Here are some ideas to get you started:
+A creative professional that solves creative problems with creative solutions–A tounge twister
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+* 🔭 I’m currently working on webdesigns and easy deployment internally to better help my clients and there needs
+* 🌱 I’m currently learning React.js to help design systems and understand programming limitations when talked about in the greater context of desing and its fundementals
+* 🏗️ Building a Design Agency over @ [BELLROSE® Desing & Co.][bellrose]
+* 💥 2021 Goals: 
+* ⚡ Fun fact: I'm an Audio Engineer by night 
+
+---
+### Reach Me Here:
+
+
+
+[website]: https://tony.bellrosedesign.com
+[twitter]: https://twitter.com/TKastaneda
+[dribbble]: https://dribbble.com/tonykastaneda
+[behance]: https://www.behance.net/tonykastaneda
+[instagram]: https://www.instagram.com/tonykastaneda/
+[bellrose]: https://www.bellrosedesign.com
