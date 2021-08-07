@@ -12,8 +12,10 @@ A creative professional that solves creative problems with creative solutions–
 
 ---
 ### Reach Me Here:
+<i class="ri-dribbble-line"></i>
 
-### Tools and Languages: 
+
+### Tools and Languages:
 
 
 
