@@ -16,6 +16,7 @@ A creative professional that solves creative problems with creative solutions–
 [<img width="22px" src="img/instagram-icon-png.png" />][instagram]
 [<img width="22px" src="img/behance-icon.svg" />][behance]
 [<img width="22px" src="img/twitter-icon.svg" />][twitter]
+[<img width="22px" src="img/email-icon.svg" />][email]
 
 ### Tools and Languages:
 
@@ -27,3 +28,4 @@ A creative professional that solves creative problems with creative solutions–
 [behance]: https://www.behance.net/tonykastaneda
 [instagram]: https://www.instagram.com/tonykastaneda/
 [bellrose]: https://www.bellrosedesign.com
+[email]: tonykastaneda@gmail.com
