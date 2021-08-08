@@ -33,7 +33,7 @@ A creative professional that solves creative problems with creative solutions–
 <img width="25px" src="img/motion.png"/>&nbsp;&nbsp;
 <img width="25px" src="img/atom.png"/>&nbsp;&nbsp;
 <img width="25px" src="img/vim.png"/>&nbsp;&nbsp;
-<img width="25px" src="img/html.svg"/>&nbsp;&nbsp;
+<img width="25px" src="img/HTML.svg"/>&nbsp;&nbsp;
 <img width="25px" src="img/css3.svg"/>&nbsp;&nbsp;
 <img width="25px" src="img/md.svg"/>&nbsp;&nbsp;
 
