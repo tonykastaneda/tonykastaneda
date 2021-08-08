@@ -12,20 +12,30 @@ A creative professional that solves creative problems with creative solutions–
 
 ---
 ### Reach Me Here:
-[<img width="25px" src="img/behance-icon.svg" />][behance]&nbsp;&nbsp;
-[<img width="25px" src="img/dribbble-ball-icon.svg" />][dribbble]&nbsp;&nbsp;
-[<img width="25px" src="img/linkedin-icon.svg" />][linkedin]&nbsp;&nbsp;
-[<img width="25px" src="img/instagram-icon-png.png" />][instagram]&nbsp;&nbsp;
-[<img width="25px" src="img/twitter-icon.svg" />][twitter]&nbsp;&nbsp;
-[<img width="25px" src="img/email-icon.svg" />][email]&nbsp;&nbsp;
+[<img width="25px" src="img/behance-icon.svg"/>][behance]&nbsp;&nbsp;
+[<img width="25px" src="img/dribbble-ball-icon.svg"/>][dribbble]&nbsp;&nbsp;
+[<img width="25px" src="img/linkedin-icon.svg"/>][linkedin]&nbsp;&nbsp;
+[<img width="25px" src="img/instagram-icon-png.png"/>][instagram]&nbsp;&nbsp;
+[<img width="25px" src="img/twitter-icon.svg"/>][twitter]&nbsp;&nbsp;
+[<img width="25px" src="img/email-icon.svg"/>][email]&nbsp;&nbsp;
 
 ### Tools and Languages:
-[<img width="25px" src="img/ps.png" />]&nbsp;&nbsp;
-
-
-
-
-
+<img width="25px" src="img/ps.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/ai.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/id.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/xd.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/au.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/pr.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/ae.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/affinity.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/glyph.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/cavalry.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/motion.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/atom.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/vim.png"/>&nbsp;&nbsp;
+<img width="25px" src="img/html.svg"/>&nbsp;&nbsp;
+<img width="25px" src="img/css3.svg"/>&nbsp;&nbsp;
+<img width="25px" src="img/md.svg"/>&nbsp;&nbsp;
 
 
 
