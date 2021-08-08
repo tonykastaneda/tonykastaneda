@@ -12,12 +12,12 @@ A creative professional that solves creative problems with creative solutions–
 
 ---
 ### Reach Me Here:
-[<img width="22px" src="img/behance-icon.svg" />][behance]&nbsp;
-[<img width="22px" src="img/dribbble-ball-icon.svg" />][dribbble]&nbsp;
-[<img width="22px" src="img/linkedin-icon.svg" />][linkedin]&nbsp;
-[<img width="22px" src="img/instagram-icon-png.png" />][instagram]&nbsp;
-[<img width="22px" src="img/twitter-icon.svg" />][twitter]&nbsp;
-[<img width="22px" src="img/email-icon.svg" />][email]&nbsp;
+[<img width="22px" src="img/behance-icon.svg" />][behance]&nbsp;&nbsp;
+[<img width="22px" src="img/dribbble-ball-icon.svg" />][dribbble]&nbsp;&nbsp;
+[<img width="22px" src="img/linkedin-icon.svg" />][linkedin]&nbsp;&nbsp;
+[<img width="22px" src="img/instagram-icon-png.png" />][instagram]&nbsp;&nbsp;
+[<img width="22px" src="img/twitter-icon.svg" />][twitter]&nbsp;&nbsp;
+[<img width="22px" src="img/email-icon.svg" />][email]&nbsp;&nbsp;
 
 ### Tools and Languages:
 
@@ -31,5 +31,3 @@ A creative professional that solves creative problems with creative solutions–
 [bellrose]: https://www.bellrosedesign.com
 [email]: tonykastaneda@gmail.com
 [linkedin]: https://www.linkedin.com/in/tonykastaneda/
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
