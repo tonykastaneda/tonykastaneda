@@ -33,11 +33,11 @@ A creative professional that solves creative problems with creative solutions–
 [<img width="25px" src="img/cavalry.png"/>][cavalry] &nbsp;&nbsp;
 [<img width="25px" src="img/motion.png"/>][motion] &nbsp;&nbsp;
 [<img width="25px" src="img/atom.png"/>][atom] &nbsp;&nbsp;
-[<img width="25px" src="img/bash.svg"/>] &nbsp;&nbsp;
+<img width="25px" src="img/bash.svg"/> &nbsp;&nbsp;
 [<img width="25px" src="img/vim.png"/>][vim] &nbsp;&nbsp;
-[<img width="25px" src="img/HTML.svg"/>] &nbsp;&nbsp;
-[<img width="25px" src="img/css3.svg"/>] &nbsp;&nbsp;
-[<img width="25px" src="img/md.svg"/>] &nbsp;&nbsp;
+<img width="25px" src="img/HTML.svg"/> &nbsp;&nbsp;
+<img width="25px" src="img/css3.svg"/> &nbsp;&nbsp;
+<img width="25px" src="img/md.svg"/> &nbsp;&nbsp;
 [<img width="25px" src="img/affinity-photo.png"/>][affinityphoto] &nbsp;&nbsp;
 [<img width="25px" src="img/figma.png"/>][figma] &nbsp;&nbsp;
 [<img width="25px" src="img/finalcut.png"/>][finalcut] &nbsp;&nbsp;
