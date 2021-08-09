@@ -18,7 +18,7 @@ A 1/8 Stack Dev thats also a creative professional that solves creative problems
 [<img width="25px" src="img/instagram-icon-png.png"/>][instagram]&nbsp;&nbsp;
 [<img width="25px" src="img/twitter-icon.svg"/>][twitter]&nbsp;&nbsp;
 [<img width="25px" src="img/email-icon.svg"/>][email]&nbsp;&nbsp;
-[<img width="25px" src="img/webkit-icon.png"/>][website]&nbsp;&nbsp;
+[<img width="20px" src="img/webkit-icon.png"/>][website]&nbsp;&nbsp;
 
 ### Tools and Languages:
 [<img width="25px" src="img/ps.png"/>][photoshop] &nbsp;&nbsp;
