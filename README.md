@@ -24,6 +24,7 @@ A creative professional that solves creative problems with creative solutions–
 [<img width="25px" src="img/ps.png"/>][photoshop] &nbsp;&nbsp;
 [<img width="25px" src="img/ai.png"/>][illustrator] &nbsp;&nbsp;
 [<img width="25px" src="img/id.png"/>][indesign] &nbsp;&nbsp;
+[<img width="25px" src="img/lightroom.png"/>][lightroom] &nbsp;&nbsp;
 [<img width="25px" src="img/xd.png"/>][xd] &nbsp;&nbsp;
 [<img width="25px" src="img/au.png"/>][audition] &nbsp;&nbsp;
 [<img width="25px" src="img/pr.png"/>][premiere] &nbsp;&nbsp;
@@ -43,7 +44,6 @@ A creative professional that solves creative problems with creative solutions–
 [<img width="25px" src="img/finalcut.png"/>][finalcut] &nbsp;&nbsp;
 [<img width="25px" src="img/hype4.png"/>][hype4] &nbsp;&nbsp;
 [<img width="25px" src="img/inkscape.png"/>][inkscape] &nbsp;&nbsp;
-[<img width="25px" src="img/lightroom.png"/>][lightroom] &nbsp;&nbsp;
 [<img width="25px" src="img/logic.png"/>][logic] &nbsp;&nbsp;
 [<img width="25px" src="img/resolve.png"/>][resolve] &nbsp;&nbsp;
 [<img width="25px" src="img/sketch.png"/>][sketch] &nbsp;&nbsp;
