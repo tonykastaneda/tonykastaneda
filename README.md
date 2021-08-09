@@ -2,7 +2,7 @@
 ### Hi Im Tony Kastaneda 👋
 
 A creative professional that solves creative problems with creative solutions.
-Build things for designers alike
+A 1/32 Stack Dev that build things for designers alike
 
 ---
 * 🔭 I’m currently working on frontend webdesigns for easy deployment to better help my clients and there needs
