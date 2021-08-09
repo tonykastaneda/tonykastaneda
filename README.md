@@ -1,7 +1,8 @@
 
 ### Hi Im Tony Kastaneda 👋
 
-A 1/8 Stack Dev thats also a creative professional that solves creative problems with creative solutions.
+A creative professional that solves creative problems with creative solutions.
+Build things for designers alike
 
 ---
 * 🔭 I’m currently working on frontend webdesigns for easy deployment to better help my clients and there needs
