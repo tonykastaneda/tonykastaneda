@@ -30,30 +30,31 @@ A creative professional that solves creative problems with creative solutions–
 [<img width="25px" src="img/pr.png"/>][premiere] &nbsp;&nbsp;
 [<img width="25px" src="img/ae.png"/>][aftereffects] &nbsp;&nbsp;
 [<img width="25px" src="img/affinity.png"/>][affinity] &nbsp;&nbsp;
+[<img width="25px" src="img/affinity-photo.png"/>][affinityphoto] &nbsp;&nbsp;
 [<img width="25px" src="img/glyph.png"/>][glyph] &nbsp;&nbsp;
 [<img width="25px" src="img/cavalry.png"/>][cavalry] &nbsp;&nbsp;
 [<img width="25px" src="img/motion.png"/>][motion] &nbsp;&nbsp;
-[<img width="25px" src="img/atom.png"/>][atom] &nbsp;&nbsp;
-<img width="25px" src="img/bash.svg"/> &nbsp;&nbsp;
 [<img width="25px" src="img/vim.png"/>][vim] &nbsp;&nbsp;
+[<img width="25px" src="img/atom.png"/>][atom] &nbsp;&nbsp;
+[<img width="25px" src="img/vscode.png"/>][vscode] &nbsp;&nbsp;
+[<img width="25px" src="img/webstorm.png"/>][webstorm] &nbsp;&nbsp;
+[<img width="25px" src="img/sublime.png"/>][sublime] &nbsp;&nbsp;
+[<img width="25px" src="img/xcode.png"/>][xcode] &nbsp;&nbsp;
+[<img width="25px" src="img/swift.png"/>][swift] &nbsp;&nbsp;
+<img width="25px" src="img/bash.svg"/> &nbsp;&nbsp;
 <img width="25px" src="img/HTML.svg"/> &nbsp;&nbsp;
 <img width="25px" src="img/css3.svg"/> &nbsp;&nbsp;
 <img width="25px" src="img/md.svg"/> &nbsp;&nbsp;
-[<img width="25px" src="img/affinity-photo.png"/>][affinityphoto] &nbsp;&nbsp;
 [<img width="25px" src="img/figma.png"/>][figma] &nbsp;&nbsp;
 [<img width="25px" src="img/finalcut.png"/>][finalcut] &nbsp;&nbsp;
+[<img width="25px" src="img/logic.png"/>][logic] &nbsp;&nbsp;
 [<img width="25px" src="img/hype4.png"/>][hype4] &nbsp;&nbsp;
 [<img width="25px" src="img/inkscape.png"/>][inkscape] &nbsp;&nbsp;
-[<img width="25px" src="img/logic.png"/>][logic] &nbsp;&nbsp;
 [<img width="25px" src="img/resolve.png"/>][resolve] &nbsp;&nbsp;
 [<img width="25px" src="img/sketch.png"/>][sketch] &nbsp;&nbsp;
 [<img width="25px" src="img/spline.png"/>][spline] &nbsp;&nbsp;
-[<img width="25px" src="img/sublime.png"/>][sublime] &nbsp;&nbsp;
-[<img width="25px" src="img/swift.png"/>][swift] &nbsp;&nbsp;
-[<img width="25px" src="img/vscode.png"/>][vscode] &nbsp;&nbsp;
 [<img width="25px" src="img/webflow.png"/>][webflow] &nbsp;&nbsp;
-[<img width="25px" src="img/webstorm.png"/>][webstorm] &nbsp;&nbsp;
-[<img width="25px" src="img/xcode.png"/>][xcode] &nbsp;&nbsp;
+
 
 
 
