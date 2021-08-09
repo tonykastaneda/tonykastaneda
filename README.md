@@ -1,10 +1,10 @@
 
 ### Hi Im Tony Kastaneda 👋
 
-A creative professional that solves creative problems with creative solutions–A tounge twister.
+A 1/8 Stack Dev thats also a creative professional that solves creative problems with creative solutions.
 
 ---
-* 🔭 I’m currently working on webdesigns and easy deployment internally to better help my clients and there needs
+* 🔭 I’m currently working on frontend webdesigns for easy deployment to better help my clients and there needs
 * 🌱 I’m currently learning React.js to help design systems and understand programming limitations when talked about in the greater context of desing and its fundementals
 * 🏗️ Building a Design Agency over @ [BELLROSE® Desing & Co.][bellrose]
 * 💥 2021 Goals: Build automated workflows in the cloud to remove hardware dependency in design pipelines
@@ -17,8 +17,8 @@ A creative professional that solves creative problems with creative solutions–
 [<img width="25px" src="img/linkedin-icon.svg"/>][linkedin]&nbsp;&nbsp;
 [<img width="25px" src="img/instagram-icon-png.png"/>][instagram]&nbsp;&nbsp;
 [<img width="25px" src="img/twitter-icon.svg"/>][twitter]&nbsp;&nbsp;
-[<img
- width="25px" src="img/email-icon.svg"/>][email]&nbsp;&nbsp;
+[<img width="25px" src="img/email-icon.svg"/>][email]&nbsp;&nbsp;
+[<img width="25px" src="img/webkit-icon.svg"/>][website]&nbsp;&nbsp;
 
 ### Tools and Languages:
 [<img width="25px" src="img/ps.png"/>][photoshop] &nbsp;&nbsp;
@@ -73,6 +73,7 @@ A creative professional that solves creative problems with creative solutions–
 [bellrose]: https://www.bellrosedesign.com
 [email]: tonykastaneda@gmail.com
 [linkedin]: https://www.linkedin.com/in/tonykastaneda/
+[website]: https://tony.bellrosedesign.com
 
 
 
