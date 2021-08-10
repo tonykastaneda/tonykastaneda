@@ -1,8 +1,8 @@
 
 ### Hi Im Tony Kastaneda 👋
+# Creative Director <br> @ BELLROSE Design & Co.
 
-A creative professional that solves creative problems with creative solutions.
-A 1/32 Stack Dev that build things for designers alike
+A creative professional that solves creative problems by desiging and building things for other designers
 
 ---
 * 🔭 I’m currently working on frontend webdesigns for easy deployment to better help my clients and there needs
