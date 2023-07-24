@@ -33,13 +33,8 @@ A creative professional that solves creative problems by designing and building 
 [<img width="25px" src="img/affinity.png"/>][affinity] &nbsp;&nbsp;
 [<img width="25px" src="img/affinity-photo.png"/>][affinityphoto] &nbsp;&nbsp;
 [<img width="25px" src="img/glyph.png"/>][glyph] &nbsp;&nbsp;
-<!--[<img width="25px" src="img/cavalry.png"/>][cavalry] &nbsp;&nbsp;-->
 [<img width="25px" src="img/motion.png"/>][motion] &nbsp;&nbsp;
-<!--[<img width="25px" src="img/vim.png"/>][vim] &nbsp;&nbsp;-->
-<!--[<img width="25px" src="img/atom.png"/>][atom] &nbsp;&nbsp;-->
 [<img width="25px" src="img/vscode.png"/>][vscode] &nbsp;&nbsp;
-<!--[<img width="25px" src="img/webstorm.png"/>][webstorm] &nbsp;&nbsp;-->
-<!--[<img width="25px" src="img/sublime.png"/>][sublime] &nbsp;&nbsp;-->
 [<img width="25px" src="img/xcode.png"/>][xcode] &nbsp;&nbsp;
 [<img width="25px" src="img/swift.png"/>][swift] &nbsp;&nbsp;
 <img width="25px" src="img/bash.svg"/> &nbsp;&nbsp;
@@ -55,6 +50,11 @@ A creative professional that solves creative problems by designing and building 
 [<img width="25px" src="img/sketch.png"/>][sketch] &nbsp;&nbsp;
 [<img width="25px" src="img/spline.png"/>][spline] &nbsp;&nbsp;
 [<img width="25px" src="img/webflow.png"/>][webflow] &nbsp;&nbsp;
+<!--[<img width="25px" src="img/cavalry.png"/>][cavalry] &nbsp;&nbsp;-->
+<!--[<img width="25px" src="img/vim.png"/>][vim] &nbsp;&nbsp;-->
+<!--[<img width="25px" src="img/atom.png"/>][atom] &nbsp;&nbsp;-->
+<!--[<img width="25px" src="img/webstorm.png"/>][webstorm] &nbsp;&nbsp;-->
+<!--[<img width="25px" src="img/sublime.png"/>][sublime] &nbsp;&nbsp;-->
 
 
 
