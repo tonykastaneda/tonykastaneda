@@ -1,5 +1,5 @@
 
-### Hi Im Tony Kastaneda 👋
+## Hi Im Tony Kastaneda 👋
 # Creative Profesional <br> @ BELLROSE Design & Co.
 
 A creative professional that solves creative problems by designing and building things for other designers
