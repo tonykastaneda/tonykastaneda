@@ -1,6 +1,6 @@
 
 ## Hi Im Tony Kastaneda 👋
-# Creative Profesional <br> @ BELLROSE Design & Co.
+# Creative Profesional <br> @ KINETIC Society.
 
 A creative professional that solves creative problems by designing and building things for other designers
 
@@ -8,7 +8,7 @@ A creative professional that solves creative problems by designing and building 
 * 🔭 I’m currently working on a design automation tool with the help of AI to make batch jobs easier and more capable than Variable Data
 * 🌱 I’m currently learning React.js to help design systems and understand programming limitations when talked about in the greater context of desing and its fundamentals
 * 🏗️ Building a Design Agency over @ [BELLROSE® Desing & Co.][bellrose]
-* 💥 2023 Goals: Build automated workflows in the cloud to remove hardware dependency in design pipelines
+* 💥 2025 Goals: Build automated workflows in the cloud to remove hardware dependency in design pipelines
 * ⚡ Fun fact: I'm an Audio Engineer by night
 
 ---
