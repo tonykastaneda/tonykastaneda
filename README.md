@@ -8,54 +8,32 @@ A creative professional that solves creative problems by designing and building 
 * 🔭 I’m currently working on a design automation tool with the help of AI to make batch jobs easier and more capable than Variable Data
 * 🌱 I’m currently learning React.js to help design systems and understand programming limitations when talked about in the greater context of desing and its fundamentals
 * 🏗️ Building a Design Agency over @ [BELLROSE® Desing & Co.][bellrose]
-* 💥 2025 Goals: Build automated workflows in the cloud to remove hardware dependency in design pipelines
-* ⚡ Fun fact: I'm an Audio Engineer by night
+* 💥 2026 Goals: Build automated workflows in the cloud to remove hardware dependency in design pipelines
 
 ---
 ### Reach Me Here:
 [<img width="25px" src="img/behance-icon.svg"/>][behance]&nbsp;&nbsp;
 [<img width="25px" src="img/dribbble-ball-icon.svg"/>][dribbble]&nbsp;&nbsp;
 [<img width="25px" src="img/linkedin-icon.svg"/>][linkedin]&nbsp;&nbsp;
-[<img width="25px" src="img/instagram-icon-png.png"/>][instagram]&nbsp;&nbsp;
-[<img width="25px" src="img/twitter-icon.svg"/>][twitter]&nbsp;&nbsp;
 [<img width="25px" src="img/email-icon.svg"/>][email]&nbsp;&nbsp;
-[<img width="20px" src="img/webkit-icon.png"/>][website]&nbsp;&nbsp;
 
 ### Tools and Languages:
 [<img width="25px" src="img/ps.png"/>][photoshop] &nbsp;&nbsp;
 [<img width="25px" src="img/ai.png"/>][illustrator] &nbsp;&nbsp;
 [<img width="25px" src="img/id.png"/>][indesign] &nbsp;&nbsp;
 [<img width="25px" src="img/lightroom.png"/>][lightroom] &nbsp;&nbsp;
-[<img width="25px" src="img/xd.png"/>][xd] &nbsp;&nbsp;
 [<img width="25px" src="img/au.png"/>][audition] &nbsp;&nbsp;
 [<img width="25px" src="img/pr.png"/>][premiere] &nbsp;&nbsp;
 [<img width="25px" src="img/ae.png"/>][aftereffects] &nbsp;&nbsp;
 [<img width="25px" src="img/affinity.png"/>][affinity] &nbsp;&nbsp;
-[<img width="25px" src="img/affinity-photo.png"/>][affinityphoto] &nbsp;&nbsp;
 [<img width="25px" src="img/glyph.png"/>][glyph] &nbsp;&nbsp;
 [<img width="25px" src="img/motion.png"/>][motion] &nbsp;&nbsp;
-[<img width="25px" src="img/vscode.png"/>][vscode] &nbsp;&nbsp;
-[<img width="25px" src="img/xcode.png"/>][xcode] &nbsp;&nbsp;
-[<img width="25px" src="img/swift.png"/>][swift] &nbsp;&nbsp;
 <img width="25px" src="img/bash.svg"/> &nbsp;&nbsp;
 <img width="25px" src="img/HTML.svg"/> &nbsp;&nbsp;
 <img width="25px" src="img/css3.svg"/> &nbsp;&nbsp;
 <img width="25px" src="img/md.svg"/> &nbsp;&nbsp;
 [<img width="25px" src="img/figma.png"/>][figma] &nbsp;&nbsp;
-[<img width="25px" src="img/finalcut.png"/>][finalcut] &nbsp;&nbsp;
-[<img width="25px" src="img/logic.png"/>][logic] &nbsp;&nbsp;
-[<img width="25px" src="img/hype4.png"/>][hype4] &nbsp;&nbsp;
 [<img width="25px" src="img/inkscape.png"/>][inkscape] &nbsp;&nbsp;
-[<img width="25px" src="img/resolve.png"/>][resolve] &nbsp;&nbsp;
-[<img width="25px" src="img/sketch.png"/>][sketch] &nbsp;&nbsp;
-[<img width="25px" src="img/spline.png"/>][spline] &nbsp;&nbsp;
-[<img width="25px" src="img/webflow.png"/>][webflow] &nbsp;&nbsp;
-<!--[<img width="25px" src="img/cavalry.png"/>][cavalry] &nbsp;&nbsp;-->
-<!--[<img width="25px" src="img/vim.png"/>][vim] &nbsp;&nbsp;-->
-<!--[<img width="25px" src="img/atom.png"/>][atom] &nbsp;&nbsp;-->
-<!--[<img width="25px" src="img/webstorm.png"/>][webstorm] &nbsp;&nbsp;-->
-<!--[<img width="25px" src="img/sublime.png"/>][sublime] &nbsp;&nbsp;-->
-
 
 
 
