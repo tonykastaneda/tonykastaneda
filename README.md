@@ -22,16 +22,11 @@ A creative professional that solves creative problems by designing and building 
 [<img width="25px" src="img/ai.png"/>][illustrator] &nbsp;&nbsp;
 [<img width="25px" src="img/id.png"/>][indesign] &nbsp;&nbsp;
 [<img width="25px" src="img/lightroom.png"/>][lightroom] &nbsp;&nbsp;
-[<img width="25px" src="img/au.png"/>][audition] &nbsp;&nbsp;
 [<img width="25px" src="img/pr.png"/>][premiere] &nbsp;&nbsp;
 [<img width="25px" src="img/ae.png"/>][aftereffects] &nbsp;&nbsp;
 [<img width="25px" src="img/affinity.png"/>][affinity] &nbsp;&nbsp;
 [<img width="25px" src="img/glyph.png"/>][glyph] &nbsp;&nbsp;
 [<img width="25px" src="img/motion.png"/>][motion] &nbsp;&nbsp;
-<img width="25px" src="img/bash.svg"/> &nbsp;&nbsp;
-<img width="25px" src="img/HTML.svg"/> &nbsp;&nbsp;
-<img width="25px" src="img/css3.svg"/> &nbsp;&nbsp;
-<img width="25px" src="img/md.svg"/> &nbsp;&nbsp;
 [<img width="25px" src="img/figma.png"/>][figma] &nbsp;&nbsp;
 [<img width="25px" src="img/inkscape.png"/>][inkscape] &nbsp;&nbsp;
 
