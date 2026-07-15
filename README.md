@@ -1,6 +1,6 @@
 
 ## Hi Im Tony Kastaneda 👋
-# Creative Profesional <br> @ KINETIC Society.
+# Creative Profesional <br> @ KINETIC Society
 
 A creative professional that solves creative problems by designing and building things for other designers
 
